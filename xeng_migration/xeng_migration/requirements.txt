@@ -1,0 +1,4 @@
+pyxecm
+requests
+openpyxl
+PyYAML
